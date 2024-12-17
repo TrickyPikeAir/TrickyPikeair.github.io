@@ -6,6 +6,22 @@
     </head>
     <body>
 
+
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
@@ -32,22 +48,13 @@
 <body>
 
 
-
 <div class="topnav">
-  <a href="#">Link</a>
+  <a href="">Link</a>
   <a href="#">Link</a>
   <a href="#">Link</a>
 </div>
-
-</body>
-</html>
-
-
-
-    
     <body>
-    
-        <h1>Travel to ....</h1>
+    <h1>Travel to ....</h1>
     <h1>United kingdom</h1>
     <p> i want to go United Kingdom because to visit some friends and familiy and to see the views in the united kingdom. </p>
     <ul>
@@ -57,7 +64,7 @@
         <LI> see London City Airport EGLC "plane spoting"
     </ul> 
     
-   
+    <img src="https://www.freeprintableflags.com/samples/United_Kingdom.png">
     
     
     <h1>New york</h1>
@@ -70,8 +77,6 @@
         <li> drive and ride a boat to the statue of liberty
     </ul> 
     
-    
-
     
     
         
